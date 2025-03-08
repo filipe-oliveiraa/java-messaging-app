@@ -43,9 +43,6 @@ The primary objective of this project is to create a functional and scalable mes
 4. **Data Handling**:
    - Managed dynamic collections using `List` and `Map`.
    - Implemented polymorphism to store and process messages.
-5. **Testing and Debugging**:
-   - Used Postman to test API endpoints.
-   - Debugged and resolved runtime issues.
 
 ---
 
