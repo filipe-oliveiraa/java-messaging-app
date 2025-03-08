@@ -1,4 +1,4 @@
-# Messaging App Project
+# Messaging App Project _(Not Finished)_
 
 ## **Overview**
 This project is a **messaging application** built as part of my learning journey in Java development. The application demonstrates core software engineering principles, object-oriented programming, and API development using modern Java technologies.
